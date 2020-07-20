@@ -9,5 +9,4 @@
 ## attack lab
 - 缓冲区溢出攻击，pwn手直接跳了
 ## buffer lab
-- 同attack lab，跳了
 ## architecture lab
