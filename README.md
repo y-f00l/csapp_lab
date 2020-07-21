@@ -5,7 +5,8 @@
 - 笔记已上传，详情见data_lab.md
 ## boom lab
 - 就是读汇编，二进制选手友好
-- to do
+- 笔记已上传，bomb_lab.md
+- 不涉及代码，就不传代码了
 ## attack lab
 - 缓冲区溢出攻击，pwn手直接跳了
 ## buffer lab
