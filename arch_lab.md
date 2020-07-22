@@ -12,4 +12,5 @@
 
 ## partB
 
-to do
+- 去给cpu添加iaddq指令
+- 
